@@ -17,7 +17,7 @@ The dataset is gotten from XYZ School
 ```![Assignment](https://github.com/user-attachments/assets/8aa9f659-f985-48ec-8044-acac3221ee73)
 
 ## Results/Findings
-
+```
 SELECT count(*)
 FROM Exam_Score_Predition
 where internet_access = 'Yes'
