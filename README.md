@@ -14,9 +14,9 @@ The dataset is gotten from XYZ School
 ## Tools used
 ## Data Cleaning/Preparation
 ## EDA
+```![Assignment](https://github.com/user-attachments/assets/8aa9f659-f985-48ec-8044-acac3221ee73)
 
 ## Results/Findings
-```![Assignment](https://github.com/user-attachments/assets/8aa9f659-f985-48ec-8044-acac3221ee73)
 
 SELECT count(*)
 FROM Exam_Score_Predition
