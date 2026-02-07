@@ -14,9 +14,8 @@ The dataset is gotten from XYZ School
 ## Tools used
 ## Data Cleaning/Preparation
 ## EDA
-![Uploading App Logo 512 pi.png…]()
 
-```![Assignment](https://github.com/user-attachments/assets/8aa9f659-f985-48ec-8044-acac3221ee73)
+<img width="512" height="512" alt="App Logo 512 pi" src="https://github.com/user-attachments/assets/f548dff6-1c4e-43e3-8b84-08967be672d9" />
 
 ## Results/Findings
 ```
